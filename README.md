@@ -1,2 +1,2 @@
-# Skillfactory_Module5
-vending machine
+# Skillfactory_Module6
+abstract class
